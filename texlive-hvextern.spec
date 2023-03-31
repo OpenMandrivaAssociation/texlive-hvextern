@@ -1,6 +1,6 @@
 Name:		texlive-hvextern
 Version:	63711
-Release:	1
+Release:	2
 Summary:	Write and execute external code, and insert the output
 Group:		Publishing
 URL:		http://www.ctan.org/tex-archive/macros/latex/contrib/hvextern
