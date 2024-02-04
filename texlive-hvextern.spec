@@ -1,5 +1,5 @@
 Name:		texlive-hvextern
-Version:	69064
+Version:	69651
 Release:	1
 Summary:	Write and execute external code, and insert the output
 Group:		Publishing
