@@ -3,7 +3,7 @@ Version:	70795
 Release:	1
 Summary:	Write and execute external code, and insert the output
 Group:		Publishing
-URL:		http://www.ctan.org/tex-archive/macros/latex/contrib/hvextern
+URL:		https://www.ctan.org/tex-archive/macros/latex/contrib/hvextern
 License:	lppl1.3c
 Source0:	http://mirrors.ctan.org/systems/texlive/tlnet/archive/hvextern.r%{version}.tar.xz
 Source1:	http://mirrors.ctan.org/systems/texlive/tlnet/archive/hvextern.doc.r%{version}.tar.xz
